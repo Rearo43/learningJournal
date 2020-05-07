@@ -1,4 +1,4 @@
-# HTML/CSS book, Ch. 15, “Layout”
+# HTML/CSS book, Ch. 15, “Layout” Reading-08
 
 ### Topics
 - positioning elements
